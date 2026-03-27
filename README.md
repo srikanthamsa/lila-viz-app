@@ -2,13 +2,13 @@
 
 > A browser-based player behavior visualization tool for LILA BLACK Level Designers.
 
-**Live URL:** `[replace-with-your-vercel-url]`
+**Live URL:** https://lila-viz-app.vercel.app/
 
 ---
 
 ## What It Does
 
-Renders 5 days of production gameplay data (89,104 events, 796 matches) on top of in-game minimaps. Designed for Level Designers — not data scientists.
+Renders 5 days of production gameplay data (89,104 events, 796 matches) on top of in-game minimaps. Designed specifically for Level Designers.
 
 **Features:**
 - Player journey paths (human vs bot, visually distinct)
