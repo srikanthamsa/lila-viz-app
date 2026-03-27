@@ -1,0 +1,77 @@
+{
+  "maps": [
+    {
+      "id": "AmbroseValley",
+      "img": "AmbroseValley_Minimap.png",
+      "n_matches": 566,
+      "n_events": 61013,
+      "stats": {
+        "total_events": 61013,
+        "total_matches": 566,
+        "event_breakdown": {
+          "Position": 36189,
+          "BotPosition": 12565,
+          "Loot": 9955,
+          "BotKill": 1797,
+          "BotKilled": 486,
+          "KilledByStorm": 17,
+          "Kill": 2,
+          "Killed": 2
+        },
+        "human_events": 47428,
+        "bot_events": 13585
+      }
+    },
+    {
+      "id": "GrandRift",
+      "img": "GrandRift_Minimap.png",
+      "n_matches": 59,
+      "n_events": 6853,
+      "stats": {
+        "total_events": 6853,
+        "total_matches": 59,
+        "event_breakdown": {
+          "Position": 3740,
+          "BotPosition": 1988,
+          "Loot": 880,
+          "BotKill": 192,
+          "BotKilled": 46,
+          "KilledByStorm": 5,
+          "Kill": 1,
+          "Killed": 1
+        },
+        "human_events": 4803,
+        "bot_events": 2050
+      }
+    },
+    {
+      "id": "Lockdown",
+      "img": "Lockdown_Minimap.jpg",
+      "n_matches": 171,
+      "n_events": 21238,
+      "stats": {
+        "total_events": 21238,
+        "total_matches": 171,
+        "event_breakdown": {
+          "Position": 11418,
+          "BotPosition": 7159,
+          "Loot": 2050,
+          "BotKill": 426,
+          "BotKilled": 168,
+          "KilledByStorm": 17
+        },
+        "human_events": 13930,
+        "bot_events": 7308
+      }
+    }
+  ],
+  "days": [
+    "February_10",
+    "February_11",
+    "February_12",
+    "February_13",
+    "February_14"
+  ],
+  "total_events": 89104,
+  "total_matches": 796
+}
